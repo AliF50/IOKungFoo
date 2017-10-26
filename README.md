@@ -1,1 +1,1 @@
-# IOKungFoo
+# IOKungFoo JavaScript Solutions
